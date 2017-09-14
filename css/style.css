@@ -75,7 +75,7 @@ a, a:hover, a:active, a:focus {
 
 .header {
 	background: rgba(0,0,0,.8);
-	padding: 200px;
+	padding-top: 200px;
 }
 
 .animatelogo {
