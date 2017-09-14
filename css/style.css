@@ -108,5 +108,13 @@ a, a:hover, a:active, a:focus {
 	margin-top: 5px;
 	color: #FFF;
 }
+.header-inner__email a {
+	color: #FFF;
+	border-bottom: 0 dashed #FAFAFA;
+	padding-bottom: 1px;
+}
+.header-inner__email a:hover {
+	border-bottom-width: 1px;
+}
 .header-inner__email .header-email__s1 { color: #925590; }
 .header-inner__email .header-email__s2 { color: #9ab4da; }
