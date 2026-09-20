@@ -1,14 +1,26 @@
-# BIDARI Naoufal 
+# Naoufal Bidari
 
-> “First they ignore you, then they laugh at you, then they fight you, then you win.“ GHANDI ✨
+Personal website at [naoufalb.com](https://naoufalb.com), built with HTML and CSS.
 
-## About 🦄
-Hi  
-I'm a web developer & designer based in Rabat, Morocco.  
-*I love coding.(C/C++,Java,Go,Perl,Php,Python...)*
-## Contact me
-- Email: me@naoufalb.com
-- Facebook: naoufalb99
-- Twitter: @naoufalb99
-- Instagram: _naoufalb 
-- Calls: (+212) (0) 609 8258 825
+## Local preview
+
+From this directory, run:
+
+```sh
+python3 -m http.server 8000
+```
+
+Open http://localhost:8000. There is no build step or dependency installation.
+
+## Editing
+
+- `index.html`: content, navigation, and metadata.
+- `css/style.css`: responsive layout, colors, and motion.
+- `img/mark.svg`: favicon and header monogram, adapted from the original site.
+- `CNAME`: custom domain for GitHub Pages.
+
+The short biography is based on the owner’s supplied CV. The LinkedIn URL was supplied directly by the owner.
+
+## Publishing
+
+Publish through the repository’s configured GitHub Pages branch. Keep `CNAME` at the root to retain the custom domain.
